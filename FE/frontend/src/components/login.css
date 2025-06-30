@@ -1,0 +1,36 @@
+.divider:after,
+.divider:before 
+
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+}
+
+.MDBContainer {
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+
+
+/* 
+
+{
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+  overflow: hidden;
+  /* scroll-padding: '0%'; */
+/* }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  height: 100%;
+} */ 
